@@ -1,0 +1,6 @@
+entire training set not use "for"
+*binary claasification: 0/1?
+{
+a big vector on 3 dimensions input, and predict the output is 1/0.
+
+}
