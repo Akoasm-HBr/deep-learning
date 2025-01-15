@@ -3,4 +3,9 @@ entire training set not use "for"
 {
 a big vector on 3 dimensions input, and predict the output is 1/0.
 logistic regression algorithm.
+
+Gradient Descent : w := w - αdw
+
+
+
 }
